@@ -1,8 +1,8 @@
 
-#React Portfolio Website with Sass and Framer Motion
+# React Portfolio Website with Sass and Framer Motion
 This is a portfolio website built using React.js, Sass for styling, and Framer Motion for animations, including a parallax effect. The website showcases your projects, skills, experiences, and contact information in an interactive and visually appealing manner.
 
-<h2>Features<h2/>
+ <h2>Features<h2/>
 Interactive Design: The website features interactive animations and transitions powered by Framer Motion, providing a dynamic user experience.
 
 Parallax Effect: Utilizing Framer Motion, the website incorporates a parallax effect to create depth and immersion as users scroll through the content.
